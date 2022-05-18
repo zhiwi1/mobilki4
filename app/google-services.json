@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "941647405956",
+    "project_id": "chat-app-963f0",
+    "storage_bucket": "chat-app-963f0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:941647405956:android:7f2fdf6b42e77488d733d1",
+        "android_client_info": {
+          "package_name": "com.cometchat.pro.androiduikit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "941647405956-5v5rn1d1vuf9mn98u0eo1kqjjhb98afv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbXV1DBICwhwNeOOmM1DElsSDiX9uDAM0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "941647405956-5v5rn1d1vuf9mn98u0eo1kqjjhb98afv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
